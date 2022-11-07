@@ -18,8 +18,6 @@ Few of the common strategies are:
 - Integrate in-app purchase for digital goods like game coins, gems and new avatars.
 - Provide services like movie ticket booking and charge service fee for that.
 
-There are many other ways to earn money through apps. Search for something that fits for your app and utilise it.
-
 ### Last point: ###
 Recently mobile usage is increased like anything, so it's an opportunity for us owners/Planners/Developers to make some beautiful quality apps and to succeed in their way. All the very best if you are planning to do something!
 
