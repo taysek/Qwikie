@@ -1,29 +1,47 @@
-# Qwikie-
-***How much do Qwikie get per download on Playsote/Appsote.***
+# **Qwikie - a ride-sharing platform**
 
-Qwikie will be paid on every downloads only when the app is a paid app. In that case, Google will take 30% cut on the 
-purchase price and add the remaining to Qwikie Google merchant account. Hence we cross $100 threshold at the end of a month, 
-the available balance in the merchant account will be transferred to company’s provided bank account by 16th of every month, and 
-$99 for iOS AppStore with 1 year validity.
+### ***Qwikie's business model***
 
-### Example ###
-If the app is priced at €1 at Google Play Store, for each download o fthe app, we'll get €0.70 and Google will take €0.30.
+> Qwikie will work as a digital aggregator platform that connects passengers who need a ride from location A to location B with drivers that are willing to serve them.
+> The passengers generate the demand, drivers supply the demand and Qwikie will act as the facilitator to make this all happen seamlessly on mobile platform.
+
+### **Qwikie's value proposition for passengers**
+
+* On demand taxi bookings (convenient)
+* Real-time tracking
+* Accurate ETA's
+* Cashless rides
+* Lower wait time for rides
+* Upfront pricing
+* Multiple ride options
+* Better complaint service
+
+### **Qwikie's value proposition for drivers**
+
+* Flexibility to drive on their own terms
+* Better income
+* Lower idle time to get new rides
+* Training sessions
+* Better trip allocations
+* Better customer service
+
+### **Revenue generation**
+
+> Qwikie is a freeware mobile app and so does not require any payment for downloads but may accept in-app purchases/payments which will be subject to commission deduction from the various app stores.
+
+* #### **Trip commissions** 
+  Qwikie will provide the drivers on its platform (also known as partners) with a robust supply of ride requests to accept, fulfill, and make income. While making a booking, the passenger pays Qwikie for the ride through the app. Qwikie then transfers the payment to the partner’s account after taking some amount of commission for doing the job of a broker.
+  The commission rates may vary from 15-20% depending on the market.
+
+* #### **Cancellation fee**
+  If a passenger cancels a ride after a certain time-frame, say five minutes, he/she is charged a cancellation fee.
+
+* #### **Brand partnerships/advertisements**
+  The aim is to get Qwikie a high ranking on the popularity scale in the central west african region with thousands of active users every day. This will make it a good option for brands to do advertisements. The app interface will push feed style layout for intuitive content consumption. Over time, it may go on to become a strong revenue source by becoming a channel for sponsored content.
 
 
-If Qwikie app is a free app, it won't be paid for the app downloads from Google Play. Instead, we'll need to use some monetisation strategies to make money through the app. 
-
-Few of the common strategies are:
-
-- Integrate ads in your app.
-- Integrate in-app purchase for digital goods like game coins, gems and new avatars.
-- Provide services like movie ticket booking and charge service fee for that.
-
-There are many other ways to earn money through apps. Search for something that fits for your app and utilise it.
-
-### Last point: ###
-Recently mobile usage is increased like anything, so it's an opportunity for us owners/Planners/Developers to make some beautiful quality apps and to succeed in their way. All the very best if you are planning to do something!
-
-More info from [Annual number of app downloads](https://www.statista.com/statistics/734332/google-play-app-installs-per-year/)
+### **Last point: Expanding rapidly with new business verticals** ###
+Recently mobile usage is increased like anything, so it's an opportunity for us owners/Planners/Developers to make some beautiful quality apps and to succeed in own way. Qwikie can become more than just a ridesharing platform and has a tremendous potential to generate massive revenue to fuel our ambitions.
 
 
 
