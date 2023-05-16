@@ -1,10 +1,10 @@
 # Qwikie-
-***How much do Qwikie get per download on Playsote/Appsote.***
+***How much does Qwikie get per download on Playstore/Appsote.***
 
-Qwikie will be paid on every downloads only when the app is a paid app. In that case, Google will take 30% cut on the 
+Qwikie will be paid on every download only when the app is a paid app. In that case, Google will take 30% cut on the 
 purchase price and add the remaining to Qwikie Google merchant account. Hence we cross $100 threshold at the end of a month, 
 the available balance in the merchant account will be transferred to company’s provided bank account by 16th of every month, and 
-$99 for iOS AppStore with 1 year validity.
+$99 for iOS AppStore with 1 yea1-yearly.
 
 ### Example ###
 If the app is priced at €1 at Google Play Store, for each download o fthe app, we'll get €0.70 and Google will take €0.30.
